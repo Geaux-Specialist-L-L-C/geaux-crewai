@@ -8,3 +8,4 @@ education_crew = Crew(
     tasks=[research_task, compilation_task],
     process=Process.sequential,
 )
+  ## ya
